@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='' width='' alt='Video Walkthrough' />
+<img src='' width='https://github.com/channacy/SimpleApp/blob/master/walkthrough.gif' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
